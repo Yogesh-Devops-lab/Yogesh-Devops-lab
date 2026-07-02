@@ -1,0 +1,423 @@
+<svg width="900" height="804" viewBox="0 0 900 804" xmlns="http://www.w3.org/2000/svg">
+<title>Yogesh DevOps skill timeline 2022 to 2026</title>
+
+<defs>
+  <linearGradient id="bandGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#00E6FF"/>
+    <stop offset="100%" stop-color="#007CF0"/>
+  </linearGradient>
+  <linearGradient id="pillGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#00C2E0"/>
+    <stop offset="100%" stop-color="#0066D6"/>
+  </linearGradient>
+  <linearGradient id="nodeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#00E6FF"/>
+    <stop offset="100%" stop-color="#007CF0"/>
+  </linearGradient>
+  <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+
+
+<line x1="60" y1="64" x2="60" y2="708"
+      stroke="url(#bandGrad)" stroke-width="3" stroke-linecap="round"
+      stroke-dasharray="644" stroke-dashoffset="644">
+  <animate attributeName="stroke-dashoffset" from="644" to="0"
+           dur="2.6s" begin="0.2s" fill="freeze" calcMode="spline"
+           keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>
+</line>
+
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.3s" fill="freeze"/>
+  <circle cx="60" cy="64" r="9" fill="url(#nodeGrad)" filter="url(#softGlow)"/>
+  <circle cx="60" cy="64" r="9" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.6"/>
+  <text x="100" y="69" font-family="JetBrains Mono, monospace" font-size="20"
+        font-weight="700" fill="#00E6FF">2022</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.44999999999999996s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="0.44999999999999996s" fill="freeze"/>
+  <rect x="100" y="96" width="90" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="100" y="96" width="90" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="145.0" y="117.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">AWS</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.51s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="0.51s" fill="freeze"/>
+  <rect x="202" y="96" width="90" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="202" y="96" width="90" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="247.0" y="117.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Linux</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.57s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="0.57s" fill="freeze"/>
+  <rect x="304" y="96" width="90" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="304" y="96" width="90" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="349.0" y="117.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Git</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.6299999999999999s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="0.6299999999999999s" fill="freeze"/>
+  <rect x="406" y="96" width="90" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="406" y="96" width="90" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="451.0" y="117.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Bash</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.69s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="0.69s" fill="freeze"/>
+  <rect x="508" y="96" width="90" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="508" y="96" width="90" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="553.0" y="117.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Docker</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.75s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="0.75s" fill="freeze"/>
+  <rect x="610" y="96" width="113" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="610" y="96" width="113" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="666.5" y="117.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Kubernetes</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.8099999999999999s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="0.8099999999999999s" fill="freeze"/>
+  <rect x="735" y="96" width="91" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="735" y="96" width="91" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="780.5" y="117.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Jenkins</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.8699999999999999s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="0.8699999999999999s" fill="freeze"/>
+  <rect x="100" y="142" width="90" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="100" y="142" width="90" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="145.0" y="163.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Nginx</text>
+</g>
+
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.6500000000000001s" fill="freeze"/>
+  <circle cx="60" cy="225" r="9" fill="url(#nodeGrad)" filter="url(#softGlow)"/>
+  <circle cx="60" cy="225" r="9" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.6"/>
+  <text x="100" y="230" font-family="JetBrains Mono, monospace" font-size="20"
+        font-weight="700" fill="#00E6FF">2023</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.8s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="1.8s" fill="freeze"/>
+  <rect x="100" y="257" width="142" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="100" y="257" width="142" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="171.0" y="278.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">GitHub Actions</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.86s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="1.86s" fill="freeze"/>
+  <rect x="254" y="257" width="90" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="254" y="257" width="90" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="299.0" y="278.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Redis</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.92s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="1.92s" fill="freeze"/>
+  <rect x="356" y="257" width="105" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="356" y="257" width="105" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="408.5" y="278.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Terraform</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.98s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="1.98s" fill="freeze"/>
+  <rect x="473" y="257" width="91" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="473" y="257" width="91" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="518.5" y="278.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Ansible</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.04s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="2.04s" fill="freeze"/>
+  <rect x="576" y="257" width="90" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="576" y="257" width="90" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="621.0" y="278.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Helm</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.1s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="2.1s" fill="freeze"/>
+  <rect x="678" y="257" width="91" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="678" y="257" width="91" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="723.5" y="278.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">MongoDB</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.16s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="2.16s" fill="freeze"/>
+  <rect x="100" y="303" width="105" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="100" y="303" width="105" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="152.5" y="324.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">SonarQube</text>
+</g>
+
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="3.0s" fill="freeze"/>
+  <circle cx="60" cy="386" r="9" fill="url(#nodeGrad)" filter="url(#softGlow)"/>
+  <circle cx="60" cy="386" r="9" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.6"/>
+  <text x="100" y="391" font-family="JetBrains Mono, monospace" font-size="20"
+        font-weight="700" fill="#00E6FF">2024</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3.15s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="3.15s" fill="freeze"/>
+  <rect x="100" y="418" width="91" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="100" y="418" width="91" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="145.5" y="439.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Argo CD</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3.21s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="3.21s" fill="freeze"/>
+  <rect x="203" y="418" width="90" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="203" y="418" width="90" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="248.0" y="439.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Azure</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3.27s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="3.27s" fill="freeze"/>
+  <rect x="305" y="418" width="113" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="305" y="418" width="113" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="361.5" y="439.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">PostgreSQL</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3.33s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="3.33s" fill="freeze"/>
+  <rect x="430" y="418" width="90" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="430" y="418" width="90" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="475.0" y="439.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Kong</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3.3899999999999997s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="3.3899999999999997s" fill="freeze"/>
+  <rect x="532" y="418" width="113" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="532" y="418" width="113" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="588.5" y="439.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Prometheus</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3.4499999999999997s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="3.4499999999999997s" fill="freeze"/>
+  <rect x="657" y="418" width="91" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="657" y="418" width="91" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="702.5" y="439.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Grafana</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3.51s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="3.51s" fill="freeze"/>
+  <rect x="760" y="418" width="90" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="760" y="418" width="90" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="805.0" y="439.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Loki</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3.57s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="3.57s" fill="freeze"/>
+  <rect x="100" y="464" width="98" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="100" y="464" width="98" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="149.0" y="485.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Promtail</text>
+</g>
+
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="4.35s" fill="freeze"/>
+  <circle cx="60" cy="547" r="9" fill="url(#nodeGrad)" filter="url(#softGlow)"/>
+  <circle cx="60" cy="547" r="9" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.6"/>
+  <text x="100" y="552" font-family="JetBrains Mono, monospace" font-size="20"
+        font-weight="700" fill="#00E6FF">2025</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="4.5s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="4.5s" fill="freeze"/>
+  <rect x="100" y="579" width="134" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="100" y="579" width="134" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="167.0" y="600.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">OpenTelemetry</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="4.56s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="4.56s" fill="freeze"/>
+  <rect x="246" y="579" width="134" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="246" y="579" width="134" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="313.0" y="600.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Elasticsearch</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="4.62s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="4.62s" fill="freeze"/>
+  <rect x="392" y="579" width="90" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="392" y="579" width="90" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="437.0" y="600.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Kibana</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="4.68s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="4.68s" fill="freeze"/>
+  <rect x="494" y="579" width="113" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="494" y="579" width="113" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="550.5" y="600.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Fluent Bit</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="4.74s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="4.74s" fill="freeze"/>
+  <rect x="619" y="579" width="91" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="619" y="579" width="91" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="664.5" y="600.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Datadog</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="4.8s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="4.8s" fill="freeze"/>
+  <rect x="722" y="579" width="90" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="722" y="579" width="90" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="767.0" y="600.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Python</text>
+</g>
+
+
+<g opacity="0" transform="translate(0,8)">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="4.86s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 8" to="0 0"
+                     dur="0.4s" begin="4.86s" fill="freeze"/>
+  <rect x="100" y="625" width="91" height="34" rx="17" fill="url(#pillGrad)" opacity="0.95"/>
+  <rect x="100" y="625" width="91" height="34" rx="17" fill="none" stroke="#ffffff" stroke-width="0.6" opacity="0.35"/>
+  <text x="145.5" y="646.5" text-anchor="middle" font-family="JetBrains Mono, monospace"
+        font-size="13" font-weight="600" fill="#ffffff">Node.js</text>
+</g>
+
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="5.699999999999999s" fill="freeze"/>
+  <circle cx="60" cy="708" r="9" fill="url(#nodeGrad)" filter="url(#softGlow)">
+    <animate attributeName="r" values="9;11;9" dur="1.4s" begin="6.199999999999999s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="60" cy="708" r="9" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.6"/>
+  <text x="100" y="713" font-family="JetBrains Mono, monospace" font-size="20"
+        font-weight="700" fill="#00E6FF">2026</text>
+  <text x="210" y="713" font-family="JetBrains Mono, monospace" font-size="14"
+        font-weight="500" fill="#8fdcff">Loading</text>
+  <circle cx="295" cy="708" r="3" fill="#00E6FF">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" begin="5.799999999999999s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="308" cy="708" r="3" fill="#00E6FF">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" begin="5.999999999999999s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="321" cy="708" r="3" fill="#00E6FF">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" begin="6.199999999999999s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+</svg>
