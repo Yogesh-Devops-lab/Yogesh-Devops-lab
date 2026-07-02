@@ -5,7 +5,7 @@ DevOps Engineer • Cloud Engineer • Infrastructure Automation • CI/CD
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00E6FF&center=true&vCenter=true&width=750&lines=DevOps+Engineer;Cloud+Infrastructure;AWS+%7C+Azure+%7C+Google+Cloud;Docker+%7C+Kubernetes;CI%2FCD+Automation;Linux+Administrator;Infrastructure+as+Code;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=DevOps+Engineer;Cloud+Infrastructure;AWS+%7C+Azure+%7C+Google+Cloud;Docker+%7C+Kubernetes;CI%2FCD+Automation;Infrastructure+as+Code;Linux+Administrator;Always+Learning+🚀" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ DevOps Engineer • Cloud Engineer • Infrastructure Automation • CI/CD
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Yogesh-Devops-lab&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Yogesh-Devops-lab&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
@@ -26,28 +26,22 @@ DevOps Engineer • Cloud Engineer • Infrastructure Automation • CI/CD
 
 # 🚀 About Me
 
-- ☁️ DevOps Engineer passionate about Cloud Infrastructure
-- 🐧 Linux Server Administration
-- 🚀 CI/CD Pipeline Design & Automation
-- ☸️ Kubernetes & Container Orchestration
-- 🏗️ Infrastructure as Code
+- ☁️ DevOps Engineer passionate about building reliable cloud infrastructure
+- 🚀 Automating CI/CD pipelines for faster and safer deployments
+- 🐳 Containerization and Kubernetes orchestration
+- 🏗 Infrastructure as Code using Terraform & Ansible
+- 🔐 Infrastructure Security & Best Practices
 - 📊 Monitoring, Logging & Observability
-- 🔐 Infrastructure Security
-- ⚡ Performance Optimization
-- 🤝 Automation Enthusiast
-- 📚 Continuously learning modern DevOps technologies
+- ⚡ Linux System Administration & Performance Optimization
+- 🤝 Always learning and exploring modern DevOps technologies
 
 ---
 
 # ☁️ Cloud Platforms
 
-<p>
+<p align="left">
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
-
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure"/>
-
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure"/>
 
 </p>
 
@@ -55,11 +49,9 @@ DevOps Engineer • Cloud Engineer • Infrastructure Automation • CI/CD
 
 # 🚀 Containers & Orchestration
 
-<p>
+<p align="left">
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
 
 <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm"/>
 
@@ -71,13 +63,9 @@ DevOps Engineer • Cloud Engineer • Infrastructure Automation • CI/CD
 
 # ⚙️ CI/CD & Automation
 
-<p>
+<p align="left">
 
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins"/>
-
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions"/>
-
-<img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab"/>
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab"/>
 
 </p>
 
@@ -85,25 +73,19 @@ DevOps Engineer • Cloud Engineer • Infrastructure Automation • CI/CD
 
 # 🏗 Infrastructure as Code
 
-<p>
+<p align="left">
 
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform"/>
-
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible"/>
+<img src="https://skillicons.dev/icons?i=terraform,ansible"/>
 
 </p>
 
 ---
 
-# 🖥 Operating Systems
+# 💻 Operating Systems
 
-<p>
+<p align="left">
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu"/>
-
-<img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos"/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash"/>
 
 </p>
 
@@ -111,9 +93,9 @@ DevOps Engineer • Cloud Engineer • Infrastructure Automation • CI/CD
 
 # 🌐 Web Servers & Networking
 
-<p>
+<p align="left">
 
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx"/>
+<img src="https://skillicons.dev/icons?i=nginx"/>
 
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache"/>
 
@@ -123,17 +105,11 @@ DevOps Engineer • Cloud Engineer • Infrastructure Automation • CI/CD
 
 ---
 
-# 🗄 Databases & Storage
+# 🗄 Databases & Cache
 
-<p>
+<p align="left">
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis"/>
 
 <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3"/>
 
@@ -141,9 +117,9 @@ DevOps Engineer • Cloud Engineer • Infrastructure Automation • CI/CD
 
 ---
 
-# 📨 Messaging & Streaming
+# 📨 Messaging
 
-<p>
+<p align="left">
 
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka"/>
 
@@ -155,7 +131,7 @@ DevOps Engineer • Cloud Engineer • Infrastructure Automation • CI/CD
 
 # 📊 Monitoring & Observability
 
-<p>
+<p align="left">
 
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus"/>
 
@@ -167,19 +143,19 @@ DevOps Engineer • Cloud Engineer • Infrastructure Automation • CI/CD
 
 <img src="https://img.shields.io/badge/OpenTelemetry-412991?style=for-the-badge&logo=opentelemetry"/>
 
+<img src="https://img.shields.io/badge/Fluent%20Bit-49BDA5?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch"/>
 
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana"/>
-
-<img src="https://img.shields.io/badge/Fluent%20Bit-49BDA5?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🔐 Security & Quality
+# 🔐 Security & DevSecOps
 
-<p>
+<p align="left">
 
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube"/>
 
@@ -195,81 +171,21 @@ DevOps Engineer • Cloud Engineer • Infrastructure Automation • CI/CD
 
 # 💻 Programming & Scripting
 
-<p>
+<p align="left">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://skillicons.dev/icons?i=python,nodejs,bash"/>
 
 </p>
 
 ---
 
-# 🛠 Developer Tools
+# 🛠 Development Tools
 
-<p>
+<p align="left">
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger"/>
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yogesh-Devops-lab&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-Devops-lab&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Yogesh-Devops-lab&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogesh-Devops-lab&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Profile Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yogesh-Devops-lab&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yogesh-Devops-lab&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yogesh-Devops-lab&theme=tokyonight"/>
 
 </p>
 
@@ -307,6 +223,6 @@ DevOps Engineer • Cloud Engineer • Infrastructure Automation • CI/CD
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Automate everything. Monitor everything. Keep learning."*
+**"Automate Everything • Monitor Everything • Keep Learning 🚀"**
 
 </p>
