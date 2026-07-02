@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yogesh 👋</h1>
-<h3 align="center">DevOps Engineer | Infrastructure & CI/CD | Founder @ DoubleTap Innovations and Technologies</h3>
+<h3 align="center">DevOps Engineer @ DoubleTap Innovations and Technologies</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-EC2%20%7C%20EKS-orange?style=flat-square&logo=amazonaws" />
